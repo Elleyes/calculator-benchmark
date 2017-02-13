@@ -1,0 +1,15 @@
+{
+  "name": "elle",
+  "version": "1.0.0",
+  "description": "osxesque calculator",
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elleyes",
+  "license": "ISC"
+}
